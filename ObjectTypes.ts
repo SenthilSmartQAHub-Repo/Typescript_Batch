@@ -58,3 +58,21 @@ let values1:(any)[]=[1,"selenium",true]
      {
         console.log("file is being uploaded")
      }
+
+
+     let a;
+
+     a=10;
+
+     //let a=10
+
+     let person:{myname:string}
+
+     person={
+        myname:"Raj"
+     }
+
+     let person1:{myname:string}
+     {
+        
+     }
