@@ -20,3 +20,12 @@ function display(empid:number | string)
 display(101)
 // this function accepts either number or string
 // void means the function does not return any value
+
+
+
+function display1(empid:number| string){
+    console.log(empid)
+}
+
+console.log(display1(100))
+console.log(display1("XYZ"))

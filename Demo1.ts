@@ -16,7 +16,10 @@ let age=25; // number
 //Type Annotation -> Explicitly specifying the type of a variable, parameter and return type of the function
 
 
-let userName:string="Admin"
+
+type a=string;
+
+let userName:a="Admin"
 let userage:number=23
 let isAdmin:boolean=true
 
