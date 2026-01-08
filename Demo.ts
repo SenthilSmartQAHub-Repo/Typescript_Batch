@@ -9,12 +9,13 @@ console.log(id)
 
 type Age=number
 
-let age:Age=20
+ let age:Age=20
 
 console.log(age)
 
 
 
-id, myName, EmailID  --- Type alias User
+// id, myName, EmailID  --- Type alias User
 
-create a object property - userdata-  created type alias then store the value
+// create a object property - userdata-  created type alias then store the value
+
