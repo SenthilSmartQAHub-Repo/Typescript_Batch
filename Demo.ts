@@ -7,9 +7,9 @@ let id:IdType=true
 console.log(id)
 
 
-type Age=number
+type num=number
 
- let age:Age=20
+ let age:num=20
 
 console.log(age)
 
