@@ -17,4 +17,5 @@ let s1=new Student() // Object or instance creation
 
 s1.display()
 
- 
+
+
