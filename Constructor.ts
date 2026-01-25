@@ -1,7 +1,7 @@
 
 class Student
 {
-    myName:string
+   readonly myName:string
     age:number
  constructor(myName:string,age:number)
     {
