@@ -6,6 +6,7 @@ class BankAccount
     {
         this.accountNumber=accountNumber;
     }
+    
 }
 class SavingAccount extends BankAccount
 {
