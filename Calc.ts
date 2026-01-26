@@ -22,11 +22,10 @@ export {add as Addition, sub}
 
 //Alias
 
- class LoginPage
+ export default class LoginPage
 {
     doLogin()
     {
 
     }
 }
-export default {LoginPage}
