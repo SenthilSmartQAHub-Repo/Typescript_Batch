@@ -22,6 +22,7 @@ class Number1
       console.log(rest)
     }
 }
+
 const n1=new Number1(10)
 const n2=new Number1(10,23)
 const n3=new Number1(10,23,"Welcome")

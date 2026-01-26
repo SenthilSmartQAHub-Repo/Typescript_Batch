@@ -14,6 +14,6 @@ const t2=new Test2()
 t2.add()
 
 
-
 //super. this is keyword used to call parent class members
 //super() this is stm used to call parent class constructor
+
