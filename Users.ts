@@ -1,4 +1,8 @@
 
-import {add} from "./Calc"
+import LoginPage,{Addition as a,sub,page} from "./Calc"
 
-add()
+a()
+sub()
+const login=new LoginPage()
+login.doLogin()
+console.log(page)

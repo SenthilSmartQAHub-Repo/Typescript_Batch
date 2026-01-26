@@ -1,6 +1,32 @@
 
-export function add()
+// export function add()
+// {
+//     console.log("add function")
+// }
+// export function sub()
+// {
+//     console.log("sub functions")
+// }
+
+export let page:String="Welcome"
+
+ function add()
 {
     console.log("add function")
 }
+ function sub()
+{
+    console.log("sub functions")
+}
+export {add as Addition, sub}
 
+//Alias
+
+ class LoginPage
+{
+    doLogin()
+    {
+
+    }
+}
+export default {LoginPage}
