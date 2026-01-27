@@ -1,5 +1,5 @@
 
-import LoginPage,{Addition as a,sub,page} from "./Calc"
+import LoginPage,{Addition as a,sub,page} from "./ExportModule"
 
 a()
 sub()
